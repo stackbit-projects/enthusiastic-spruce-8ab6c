@@ -7,7 +7,7 @@ sections:
     actions:
       - label: Contactez-moi
         url: 'mailto:adeline@adedigital.fr'
-        style: secondary
+        style: primary
     image_alt: Hero section placeholder image
     media_position: bottom
     align: center
