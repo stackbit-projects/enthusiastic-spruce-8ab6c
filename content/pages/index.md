@@ -6,7 +6,7 @@ sections:
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Contactez-moi
-        url: m
+        url: 'mailto:adeline@adedigital.fr'
         style: primary
     image_alt: Hero section placeholder image
     media_position: bottom
