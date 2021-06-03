@@ -6,7 +6,7 @@ sections:
     subtitle: Celebrating daily wins with YourGoal.
     actions:
       - label: Contactez-moi
-        url: /pricing
+        url: m
         style: primary
     image_alt: Hero section placeholder image
     media_position: bottom
