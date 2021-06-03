@@ -5,7 +5,7 @@ sections:
     title: Achieve your Goals!
     subtitle: Celebrating daily wins with YourGoal.
     actions:
-      - label: Try for free
+      - label: Contactez-moi
         url: /pricing
         style: primary
     image_alt: Hero section placeholder image
